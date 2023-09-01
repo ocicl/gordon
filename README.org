@@ -1,0 +1,9 @@
+* gordon
+
+A common lisp library to create flash files programmatically
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/sgarciac/gordon.git |
+| commit  | 8d23305                                    |
+| systems | gordon                                     |
+|---------+--------------------------------------------|
